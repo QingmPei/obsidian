@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 676.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ad1e994c72d2e79",
+  "active": "76d1647787cad021",
   "lastOpenFiles": [
     "常用命令文档/obsidian使用教程.md",
     "README.md",
