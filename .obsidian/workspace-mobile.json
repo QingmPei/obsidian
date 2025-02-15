@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "红楼梦读书笔记/第二回 贾夫人仙逝扬州城 冷子兴演说荣国府.md",
+                "file": "红楼梦读书笔记/第一回 甄士隐梦幻识通灵 贾雨村风尘怀闺秀.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第二回 贾夫人仙逝扬州城 冷子兴演说荣国府"
+              "title": "第一回 甄士隐梦幻识通灵 贾雨村风尘怀闺秀"
             }
           }
         ]
@@ -150,9 +150,13 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "65016532359f9d9f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "红楼梦读书笔记/第三回.md",
+    "红楼梦读书笔记/第二回 贾夫人仙逝扬州城 冷子兴演说荣国府.md"
+  ]
 }
