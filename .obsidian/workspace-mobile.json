@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "红楼梦读书笔记/第一回 甄士隐梦幻识通灵 贾雨村风尘怀闺秀.md",
+                "file": "红楼梦读书笔记/第三回.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第一回 甄士隐梦幻识通灵 贾雨村风尘怀闺秀"
+              "title": "第三回"
             }
           }
         ]
@@ -139,9 +139,19 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
+      },
+      {
+        "id": "8fe9f623e92370c1",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,6 +166,7 @@
   },
   "active": "65016532359f9d9f",
   "lastOpenFiles": [
+    "红楼梦读书笔记/第一回 甄士隐梦幻识通灵 贾雨村风尘怀闺秀.md",
     "红楼梦读书笔记/第三回.md",
     "红楼梦读书笔记/第二回 贾夫人仙逝扬州城 冷子兴演说荣国府.md"
   ]
