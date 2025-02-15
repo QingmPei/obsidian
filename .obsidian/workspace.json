@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "红楼梦读书笔记/第一回 甄士隐梦幻识通灵 贾雨村风尘怀闺秀.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -166,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 530.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ad1e994c72d2e79",
+  "active": "e799f493b937a3ff",
   "lastOpenFiles": [
     "红楼梦读书笔记/第二回 贾夫人仙逝扬州城 冷子兴演说荣国府.md",
     "红楼梦读书笔记/第一回 甄士隐梦幻识通灵 贾雨村风尘怀闺秀.md",
